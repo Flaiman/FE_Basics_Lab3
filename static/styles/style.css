@@ -13,7 +13,7 @@
     height: 50px;
     width: calc(100% * (400 / 600));
     float: right;
-    background-color: cyan;
+    background-color: darkcyan;
     text-align: center;
 }
 .img2{
@@ -24,7 +24,7 @@
 #text1{
     height: 550px;
     width: calc(100% * (200 / 600));
-    background-color: magenta;
+    background-color: #A7C7E7;
     float: right;
     text-align: center;
 }
